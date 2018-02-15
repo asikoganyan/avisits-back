@@ -1,0 +1,1 @@
+<a href="http://avisits.com/#/auth/reset-password?token={{$token}}">Reset Password</a>
